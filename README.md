@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Lucas Lamonier</h1>
-<h3 align="center">A newbie front-end developer from Brazil.</h3>
+<h3 align="center">A junior front-end developer from Brazil.</h3>
 
 - 📷 I’m currently working on **a photo album creator app**
 
