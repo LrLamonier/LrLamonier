@@ -5,7 +5,7 @@
 
 - 👓 Learning **React**
 
-- 📝 Project: ABNT format reference generator (PT-BR only) [https://referenciasabnt.netlify.app/](https://referenciasabnt.netlify.app/)
+- 📝 Project: ABNT format reference generator (PT-BR only) [https://referenciasabnt.netlify.app/](https://lrlamonier.github.io/abnt-references/)
 
 - 🖼 Project: personal photo album (optimized for mobile devices) [https://growmynth.netlify.app/](https://growmynth.netlify.app/)
 
