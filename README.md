@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I'm Lucas Lamonier</h1>
 <h3 align="center">A newbie front-end developer from Brazil.</h3>
 
-- 📷 I’m currently working on **an app for creating photo albums**
+- 📷 I’m currently working on **a photo album creator**
 
 - 👓 I’m currently learning **React**
 
