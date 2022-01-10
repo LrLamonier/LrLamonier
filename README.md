@@ -5,9 +5,9 @@
 
 - 👓 I’m currently learning **React**
 
-- 📝 Project: ABNT format reference generator [https://referenciasabnt.netlify.app/](https://referenciasabnt.netlify.app/)
+- 📝 Project: ABNT format reference generator (PT-BR only) [https://referenciasabnt.netlify.app/](https://referenciasabnt.netlify.app/)
 
-- 🖼 Project: personal photo album [https://growmynth.netlify.app/](https://growmynth.netlify.app/)
+- 🖼 Project: personal photo album (optimized for mobile devices) [https://growmynth.netlify.app/](https://growmynth.netlify.app/)
 
 - 📧 How to reach me **lucasrlamonier@gmail.com**
 
