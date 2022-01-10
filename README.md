@@ -3,7 +3,7 @@
 
 - 📷 I’m currently working on **a photo album creator app**
 
-- 👓 I’m currently learning **React**
+- 👓 Learning **React**
 
 - 📝 Project: ABNT format reference generator (PT-BR only) [https://referenciasabnt.netlify.app/](https://referenciasabnt.netlify.app/)
 
