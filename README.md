@@ -5,6 +5,8 @@
 
 - 👓 Learning **React**
 
+- 🐶 React project: [Who's a good boy (or girl)? (optimized for mobile devices)](https://lrlamonier.github.io/whos-a-good-boy/)
+
 - 📝 Project: [ABNT format reference generator (PT-BR only)](https://lrlamonier.github.io/abnt-references/)
 
 - 🖼 Project: [personal photo album (optimized for mobile devices)](https://lrlamonier.github.io/growmynths-album/)
