@@ -25,9 +25,9 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 
 
 ## Skills  
-![Logos: React, Bootstrap, Sass, JavaScript, HTML, and CSS](https://i.imgur.com/Ue85JEk.png)  
-![Logos: mongoDB, express, node.js and git](https://i.imgur.com/D5XZmfh.png)  
 
+<img src="(https://i.imgur.com/Ue85JEk.png" align="center" height="" width="" />
+<img src="https://i.imgur.com/D5XZmfh.png" align="center" height="" width="" />
 
 <br/>  
 
