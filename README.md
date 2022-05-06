@@ -27,6 +27,7 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 ## Skills  
 
 <img src="(https://i.imgur.com/Ue85JEk.png" align="center" height="" width="" />
+<br>
 <img src="https://i.imgur.com/D5XZmfh.png" align="center" height="" width="" />
 
 <br/>  
@@ -81,6 +82,3 @@ React app that gets random dogs and dog facts from The Dog API and the Dog Facts
 App feito em React que exibe doguinhos aleatórios e fatos sobre cachorros da The Dog API e da Dog Facts API, respectivamente.  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
