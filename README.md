@@ -1,19 +1,110 @@
-<h1 align="center">Hello there, I'm Lucas Lamonier</h1>
-<h3 align="center">A junior front-end developer from Brazil.</h3>
+# Hey! I'm Lucas!  
+  
 
-## 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  </p>
+I'm a biotech major transitioning into a junior front-end developer and finding my way into back-end development in order to build my own full stack web apps.  
+  
 
-## My projects
+Big fan of React and Node.js  
+  
 
-### React projects
-- [Pokémon Team Randomizer](https://lrlamonier.github.io/pokemon-team-randomizer/)
-- [Who's a good boy?](https://lrlamonier.github.io/whos-a-good-boy/)
+»  
+  
 
-### Other projects
-- [ABNT style reference generator (PT-BR)](https://lrlamonier.github.io/abnt-references/)
-- [Personal FFXIV screenshots album](https://lrlamonier.github.io/growmynths-album/)
+Sou mestre em biotecnologia transicionando para me tornar um desenvolvedor front-end júnior e me aventurando no back-end com o objetivo de construir minhas próprias aplicações web full-stack.  
+  
 
-## Contact
-Find me on [LinkedIn](https://www.linkedin.com/in/lamonier/), [Twitter](https://twitter.com/yaboyrasor) or [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com).
+»  
+  
+
+LinkedIn: [/in/lamonier](https://www.linkedin.com/in/lamonier/)<br>
+Kaggle: [/lucaslamonier](https://www.kaggle.com/lucaslamonier)<br>
+E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)  
+  
+
+<br/>  
+
+
+## Skills  
+<table><tr><td valign="top" width="50%">
+
+
+
+### Front-end  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+</div>
+
+</td><td valign="top" width="50%">
+
+
+
+### Back end  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+</div>
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Portfolio  
+<div align="center">
+<img src="https://i.imgur.com/ih3225s.png" align="center" height="" width="" />
+</div>  
+  
+
+<br>API live on Heroku: [https://dead-by-api.herokuapp.com/](https://dead-by-api.herokuapp.com/)
+<br>The first request might take a couple of seconds.<br>O primeiro acesso pode levar alguns segundos.
+<br><br>GitHub repo: [https://github.com/LrLamonier/dead-by-api](https://github.com/LrLamonier/dead-by-api)
+  
+  
+
+»  
+  
+
+Dead by Daylight game REST API built with Node.js, Express, MongoDB, and Mongoose. Gives access to 847 database entries about the game through 26 endpoints.  
+  
+
+»  
+  
+
+API REST sobre o jogo Dead by Daylight construída com Node.js, Express, MongoDB e Mongoose. Permite acesso a 847 itens através de 26 endpoints.  
+  
+
+
+
+### ABNT-style reference generator / Gerador de referências no estilo ABNT  
+[Generator/Gerador](https://lrlamonier.github.io/abnt-references/) | [GitHub repo](https://github.com/LrLamonier/abnt-references)
+<br>
+Made with simple JavaScript, HTML, and CSS, this was my first project after going through two front-end courses.  
+  
+
+
+
+### Other small learning projects / Outros projetos pequenos de estudo  
+[Pokémon Team Randomizer](https://lrlamonier.github.io/pokemon-team-randomizer/) | [GitHub repo](https://github.com/LrLamonier/pokemon-team-randomizer)
+<br>
+Small React app that generates random Pokémon  teams based on the generation(s) the user selects. Gets information from the PokéAPI and the Bulbapedia.<br><br>
+App simples feito em React que gera times aleatórios de Pokémons baseados na(s) geração(ões) que o usuário seleciona. Utiliza informações da PokéAPI e da Bulbapedia.  
+  
+
+»  
+  
+
+[Who's a good boy?](https://lrlamonier.github.io/whos-a-good-boy/) | [GitHub repo](https://github.com/LrLamonier/whos-a-good-boy)<br>
+React app that gets random dogs and dog facts from The Dog API and the Dog Facts API, respectively.<br><br>
+App feito em React que exibe doguinhos aleatórios e fatos sobre cachorros da The Dog API e da Dog Facts API, respectivamente.  
+
+<br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
