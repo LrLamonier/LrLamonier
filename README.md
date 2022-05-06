@@ -27,7 +27,7 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 ## Skills  
 
 <img src="(https://i.imgur.com/Ue85JEk.png" align="center" height="" width="" />
-<br>
+<br/>
 <img src="https://i.imgur.com/D5XZmfh.png" align="center" height="" width="" />
 
 <br/>  
