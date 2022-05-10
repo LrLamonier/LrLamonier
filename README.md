@@ -1,7 +1,7 @@
 # Hey! I'm Lucas!  
   
 
-I'm a biotech with a masters' degree transitioning into a junior front-end developer and finding my way into back-end development in order to build my own full stack web apps.  
+I'm a biotech bachelor with a masters' degree transitioning into a junior front-end developer and finding my way into back-end development in order to build my own full stack web apps.  
   
 
 Big fan of React and Node.js  
