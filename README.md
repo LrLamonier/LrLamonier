@@ -36,7 +36,7 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 
 ### Other tools
 
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman logo" align="center" height="60" width="60" />
+<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman logo" align="center" height="60" width="60" />
 
 <br/>  
 
