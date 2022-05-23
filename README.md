@@ -66,6 +66,5 @@ Meu primeiro projeto feito com JavaScript básico. Permite que usuários criem r
 <br>
 App simples feito em React que gera times aleatórios de Pokémons baseados na(s) geração(ões) que o usuário seleciona. Utiliza informações da PokéAPI e da Bulbapedia.  
   
-<br><br><br>[Who's a good boy?](https://lrlamonier.github.io/whos-a-good-boy/) | [GitHub repo](https://github.com/LrLamonier/whos-a-good-boy)<br>
-React app that gets random dogs and dog facts from The Dog API and the Dog Facts API, respectively.<br><br>
+<br><br>[Who's a good boy?](https://lrlamonier.github.io/whos-a-good-boy/) | [GitHub repo](https://github.com/LrLamonier/whos-a-good-boy)<br>
 App feito em React que exibe doguinhos aleatórios e fatos sobre cachorros da The Dog API e da Dog Facts API, respectivamente.  
