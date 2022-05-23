@@ -1,27 +1,8 @@
 # Hey! I'm Lucas!  
   
-
-I'm a biotech bachelor with a masters' degree transitioning into a junior front-end developer and finding my way into back-end development in order to build my own full stack web apps.  
-  
-
-Big fan of React and Node.js  
-  
-
-»  
-  
-
-Sou mestre em biotecnologia transicionando para me tornar um desenvolvedor front-end júnior e me aventurando no back-end com o objetivo de construir minhas próprias aplicações web full-stack.  
-  
-
-»  
-  
-
 LinkedIn: [/in/lamonier](https://www.linkedin.com/in/lamonier/)<br>
 Kaggle: [/lucaslamonier](https://www.kaggle.com/lucaslamonier)<br>
 E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)  
-  
-
-<br/>  
 
 
 ## Skills  
@@ -41,29 +22,35 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 <br/>  
 
 
-## Portfolio  
+# Portifólio  
+
+<div align="center">
+  <img src="https://i.imgur.com/q9rSHAp.png" align="center" height="" width="" />
+</div>
+
+<br>[https://horariomarcado.app/](https://horariomarcado.app)
+<br>Serviço full stack de agendamento de horários. Permite que os usuários criem calendários personalizados vinculados ao Google Agenda que exibem horários disponíveis para seus clientes.<br>Construído com React no front e Node.js, Express, MongoDB e Mongoose no back. Hospedado no Google Cloud com domínio próprio e integrado ao SendGrid para envio de e-mails.
+<br>Algumas funcionalidades:<br>
+- Criação de conta<br>
+- Edição de perfil<br>
+- Integração com agenda do Google<br>
+- Criação de calendário personalizado<br>
+- Recuperação e troca de senha via e-mail<br>
+- Deleção da conta<br>
+
+##
 <div align="center">
 <img src="https://i.imgur.com/ih3225s.png" align="center" height="" width="" />
 </div>  
   
 
-<br>API live on Heroku: [https://dead-by-api.herokuapp.com/](https://dead-by-api.herokuapp.com/)
-<br>The first request might take a couple of seconds.<br>O primeiro acesso pode levar alguns segundos.
-<br><br>GitHub repo: [https://github.com/LrLamonier/dead-by-api](https://github.com/LrLamonier/dead-by-api)
+<br>API no Heroku: [https://dead-by-api.herokuapp.com/](https://dead-by-api.herokuapp.com/)
+<br>O primeiro acesso pode levar alguns segundos.
+<br>Repositório: [https://github.com/LrLamonier/dead-by-api](https://github.com/LrLamonier/dead-by-api)
   
-  
-
 »  
-  
 
-Dead by Daylight game REST API built with Node.js, Express, MongoDB, and Mongoose. Gives access to 847 database entries about the game through 26 endpoints.  
-  
-
-»  
-  
-
-API REST sobre o jogo Dead by Daylight construída com Node.js, Express, MongoDB e Mongoose. Permite acesso a 847 itens através de 26 endpoints.  
-  
+API REST sobre o jogo Dead by Daylight construída com Node.js, Express, MongoDB e Mongoose. Dá acesso a 847 documentos através de 26 endpoints.
 
 
 
