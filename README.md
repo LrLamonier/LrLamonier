@@ -5,7 +5,7 @@ Kaggle: [/lucaslamonier](https://www.kaggle.com/lucaslamonier)<br>
 E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)  
 
 
-## Skills  
+## Habilidades  
 
 ### Front end
 
@@ -15,7 +15,7 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 
 <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB logo" align="center" height="60" width="60" />
 
-### Other tools
+### Outras ferramentas
 
 <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman logo" align="center" height="60" width="60" />
 
