@@ -31,12 +31,51 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 <br>[https://horariomarcado.app/](https://horariomarcado.app)
 <br>Serviço full stack de agendamento de horários. Permite que os usuários criem calendários personalizados vinculados ao Google Agenda que exibem horários disponíveis para seus clientes.<br><br>Construído com React no front e Node.js, Express, MongoDB e Mongoose no back. Hospedado no Google Cloud com domínio próprio e integrado ao SendGrid para envio de e-mails.
 <br><br>Algumas funcionalidades:<br>
-- Criação de conta<br>
-- Edição de perfil<br>
-- Integração com agenda do Google<br>
-- Criação de calendário personalizado<br>
-- Recuperação e troca de senha via e-mail<br>
-- Deleção da conta<br>
+<table><tr><td valign="top" width="50%">
+
+- Criação de conta
+  
+  
+
+- Autenticação via cookie JWT  
+  
+
+- Edição de perfil
+  
+  
+
+- Integração com Google Agenda
+  
+  
+
+- Criação de calendário personalizado  
+  
+
+- Criação de URL personalizada pelo próprio usuário  
+  
+
+- Senhas armazenadas encriptografadas com hash e salt  
+
+
+</td><td valign="top" width="50%">
+
+- Integração com SendGrid  
+  
+
+- Envio de token de troca de senha por e-mail  
+  
+
+- Encerramento de conta via token enviado por e-mail  
+  
+
+- Hospedado no Google Cloud com domínio próprio  
+  
+
+- Servidor só retorna dados autorizados pelo usuário  
+
+
+</td></tr></table>
+<br />
 
 ##
 <div align="center">
