@@ -9,7 +9,7 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 
 ### Front end
 
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Bootstrap logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3 logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 logo" align="center" height="60" width="60" />
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="Bootstrap logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3 logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 logo" align="center" height="60" width="60" />
 
 ### Back end
 
