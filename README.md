@@ -71,4 +71,4 @@ My first project made with basic JavaScript. Allows users to quickly create bibl
 Simple React app that generates random Pokémon teams based on the generation(s) the user selects. Consumes data from the PokéAPI and the Bulbapedia.  
   
 <br><br>[Who's a good boy?](https://lrlamonier.github.io/whos-a-good-boy/) | [GitHub repo](https://github.com/LrLamonier/whos-a-good-boy)<br>
-React app that gets random dogo images and facts from The Dog API and the Dog Facts API, respectively. 
+React app that gets random doggo images and facts from The Dog API and the Dog Facts API, respectively. 
