@@ -29,7 +29,6 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 </div>
 
 <br>[https://horariomarcado.app/](https://horariomarcado.app) (Currently available only in PT-BR)
-<br>Currently on maintenance!
 <br>Full-stack platform for booking appointments. Allows users to create custom calendars linked to Google Calendar that shows to their customers what times they have available.<br><br>The front end was built with React. The back end was built with Node.js, Express, MongoDB, and Mongoose. Hosted on Google Cloud with proprietary domain and integrated with SendGrid for e-mail functionalities such as password recovery and account deletion confirmation.
 <br><br>Key features:<br>
 - Account creation
