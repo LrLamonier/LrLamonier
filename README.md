@@ -7,13 +7,13 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 
 ## Skills  
 
-### Front end
-
-![React](https://icongr.am/devicon/react-original-wordmark.svg?size=50) <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstrap logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3 logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5 logo" align="center" height="60" width="60" />
-
 ### Back end
 
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="NodeJS logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="Express logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB logo" align="center" height="60" width="60" />
+![Node.js](./readme-imgs/b-01-node.png) ![Express](./readme-imgs/b-02-express.png) ![MongoDB](./readme-imgs/b-03-mongodb.png) ![Mongoose](./readme-imgs/b-04-mongoose.png) ![MySQL](./readme-imgs/b-05-mysql.png) ![Sequelize](./readme-imgs/b-06-sequelize.png)
+
+### Front end
+
+![React](./readme-imgs/f-01-react.png) ![]
 
 ### Other tools
 
