@@ -9,7 +9,7 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 
 ### Back end
 
-![Node.js](./readme-imgs/b-01-node.png) ![Express](./readme-imgs/b-02-express.png) ![MongoDB](./readme-imgs/b-03-mongodb.png) ![Mongoose](./readme-imgs/b-04-mongoose.png) ![MySQL](./readme-imgs/b-05-mysql.png) ![Sequelize](./readme-imgs/b-06-sequelize.png)
+![Node.js](./readme-imgs/b-01-node.png) ![Express](./readme-imgs/b-02-express-new.png) ![MongoDB](./readme-imgs/b-03-mongodb.png) ![Mongoose](./readme-imgs/b-04-mongoose.png) ![MySQL](./readme-imgs/b-05-mysql.png) ![Sequelize](./readme-imgs/b-06-sequelize.png)
 
 ### Front end
 
