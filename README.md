@@ -1,4 +1,10 @@
-# Hey! I'm Lucas!  
+# Howdy!
+
+I am Lucas, a full-stack web dev from Goiás, Brazil, exploring the limits of JavaScript, one node_module at a time. Adept at writing clean, reusable, and updatable code, I build simple applications that solve complex problems.
+<br>
+After nearly a decade doing research, I am comfortable with not only planning and executing projects, small and large, but also with doing so working as a proactive part of a team.
+<br>
+Between one code and the next I watch bad movies and main Mercy in Overwatch 2. Want to talk about tech (or something random), a movie suggestion, help/collab on a project, heals in OW2, and/or hire me? Please do get in touch.
   
 LinkedIn: [/in/lamonier](https://www.linkedin.com/in/lamonier/)<br>
 Kaggle: [/lucaslamonier](https://www.kaggle.com/lucaslamonier)<br>
@@ -13,11 +19,11 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 
 ### Front end
 
-![React](./readme-imgs/f-01-react.png) ![]
+![React](./readme-imgs/f-01-react.png) ![Material UI](./readme-imgs/f-02-material-ui.png) ![Bootstrap](./readme-imgs/f-03-bootstrap.png) ![JavaScript ES6](./readme-imgs/f-04-javascript.png) ![HTML 5](./readme-imgs/f-05-html.png) ![CSS 3](./readme-imgs/f-06-css.png)
 
 ### Other tools
 
-<img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git logo" align="center" height="60" width="60" /> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman logo" align="center" height="60" width="60" />
+![Git](./readme-imgs/t-01-git.png) ![Postman](./readme-imgs/t-02-postman.png) ![Insomnia](./readme-imgs/t-03-insomnia.png)
 
 <br/>  
 
@@ -45,7 +51,7 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 - Server only sends to the front end data authorized by the user
 <br />
 
-##
+## 
 <div align="center">
 <img src="https://i.imgur.com/ih3225s.png" align="center" height="" width="" />
 </div>  
@@ -57,14 +63,14 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 <br>REST API serving data from the Dead by Daylight game build with Node.js, Express, MongoDB, and Mongoose. Gives access to 903 documents through 26 endpoints.
 
 
-##
+## 
 ## ABNT-style reference generator
 [Generator (available in PT-BR](https://lrlamonier.github.io/abnt-references/) | [GitHub repo](https://github.com/LrLamonier/abnt-references)
 <br>
 My first project made with basic JavaScript. Allows users to quickly create bibliographic references.
 
 
-##
+## 
 ### Small learning projects  
 [Pokémon Team Randomizer](https://lrlamonier.github.io/pokemon-team-randomizer/) | [GitHub repo](https://github.com/LrLamonier/pokemon-team-randomizer)
 <br>
