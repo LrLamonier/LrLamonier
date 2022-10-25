@@ -60,7 +60,7 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
 <br>API on Heroku: [https://dead-by-api.herokuapp.com/](https://dead-by-api.herokuapp.com/)
 <br>The first access might take a couple seconds.
 <br>GitHub repo: [https://github.com/LrLamonier/dead-by-api](https://github.com/LrLamonier/dead-by-api)
-<br>REST API serving data from the Dead by Daylight game build with Node.js, Express, MongoDB, and Mongoose. Gives access to 903 documents through 26 endpoints.
+<br>REST API serving data from the Dead by Daylight game. Built with Node.js, Express, MongoDB, and Mongoose. Gives access to 903 documents through 26 endpoints.
 
 
 ## 
@@ -76,5 +76,5 @@ My first project made with basic JavaScript. Allows users to quickly create bibl
 <br>
 Simple React app that generates random Pokémon teams based on the generation(s) the user selects. Consumes data from the PokéAPI and the Bulbapedia.  
   
-<br><br>[Who's a good boy?](https://lrlamonier.github.io/whos-a-good-boy/) | [GitHub repo](https://github.com/LrLamonier/whos-a-good-boy)<br>
+<br>[Who's a good boy?](https://lrlamonier.github.io/whos-a-good-boy/) | [GitHub repo](https://github.com/LrLamonier/whos-a-good-boy)<br>
 React app that gets random doggo images and facts from The Dog API and the Dog Facts API, respectively. 
