@@ -8,7 +8,8 @@ Between one code and the next I watch bad movies and main Mercy in Overwatch 2. 
   
 LinkedIn: [/in/lamonier](https://www.linkedin.com/in/lamonier/)<br>
 Kaggle: [/lucaslamonier](https://www.kaggle.com/lucaslamonier)<br>
-E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)  
+E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)<br>
+Website: [lucaslamonier.com](https://lucaslamonier.com)
 
 
 ## Skills  
