@@ -58,7 +58,7 @@ E-mail: [lucasrlamonier@gmail.com](mailto:lucasrlamonier@gmail.com)
   
 
 <br>API on Heroku: [https://dead-by-api.herokuapp.com/](https://dead-by-api.herokuapp.com/)
-<br>The first access might take a couple seconds.
+<br>The first access might take a couple of seconds.
 <br>GitHub repo: [https://github.com/LrLamonier/dead-by-api](https://github.com/LrLamonier/dead-by-api)
 <br>REST API serving data from the Dead by Daylight game. Built with Node.js, Express, MongoDB, and Mongoose. Gives access to 903 documents through 26 endpoints.
 
