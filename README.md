@@ -56,7 +56,7 @@ Website: [lucaslamonier.com](https://lucaslamonier.com)
 </div>  
   
 
-<br>**Attention:** starting on Nov 28th, 2022, [Heroku will no longer offer free hosting services](https://blog.heroku.com/next-chapter) and the Dead-by-API will no longer be live. However, the source code for the API and the database schema is, and always will be, free and available for you to download, improve upon, and have fun with. If you happen to feel like it, give me a shout-out on your project. It will make my day to see someone using this code.
+<br>**Attention:** starting on Nov 28th, 2022, [Heroku will no longer offer free hosting services](https://blog.heroku.com/next-chapter) and the Dead-by-API will no longer be live. However, the source code for the API and the database schema are, and always will be, free and available for you to download, improve upon, and have fun with. If you happen to feel like it, give me a shout-out on your project. It will make my day to see someone using this code.
 <br>API on Heroku: [https://dead-by-api.herokuapp.com/](https://dead-by-api.herokuapp.com/)
 <br>The first access might take a couple of seconds.
 <br>GitHub repo: [https://github.com/LrLamonier/dead-by-api](https://github.com/LrLamonier/dead-by-api)
