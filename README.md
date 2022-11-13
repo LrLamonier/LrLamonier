@@ -2,7 +2,7 @@
 
 I am Lucas, a full-stack web dev from Goiás, Brazil, exploring the limits of JavaScript, one node_module at a time. Adept at writing clean, reusable, and updatable code, I build simple applications that solve complex problems.
 <br>
-Between one code and the next I watch bad movies and main Mercy in Overwatch 2. Want to talk about tech (or something random), a movie suggestion, help/collab on a project, heals in OW2, and/or hire me? Please do get in touch.
+Between one code and the next I watch bad movies and main Mercy in Overwatch 2. Want to talk about tech, a movie suggestion, help/collab on a project, heals in OW2, and/or hire me? Please do get in touch.
   
 LinkedIn: [/in/lamonier](https://www.linkedin.com/in/lamonier/)<br>
 Kaggle: [/lucaslamonier](https://www.kaggle.com/lucaslamonier)<br>
